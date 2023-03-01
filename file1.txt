@@ -1,0 +1,7 @@
+1 git init
+2 create a file              vi file1.txt
+3 add to file to git         git add file1.txt
+4 commit the file1.txt       git coomit -m " first commit"
+5 create branch              git branch -M branch1 
+6 add branch to git          git remote add origin https://github.com/nadendlasrs/gitrepository.git
+7 add again command          git push -u origin branch1
