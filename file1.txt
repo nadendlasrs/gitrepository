@@ -2,6 +2,9 @@
 2 create a file              vi file1.txt
 3 add to file to git         git add file1.txt
 4 commit the file1.txt       git coomit -m " first commit"
-5 create branch              git branch -M branch1 
-6 add branch to git          git remote add origin https://github.com/nadendlasrs/gitrepository.git
-7 add again command          git push -u origin branch1
+5 create branch              git branch branch1 
+6 push the branch to origin  git push -u origin branch1
+7 check the git status       git status 
+8 check the branch           git branch
+9 create another branch      git branch branch2
+10 push the branch           git push origin branch2
