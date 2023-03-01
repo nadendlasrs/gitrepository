@@ -8,3 +8,6 @@
 8 check the branch           git branch
 9 create another branch      git branch branch2
 10 push the branch           git push origin branch2
+11 swith the branch          git checkout branch2
+12 add the commit to         git add .   git commit -m " second commit"
+
